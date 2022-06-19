@@ -1,0 +1,20 @@
+git init	 git config --global user.email "you@example.com"				
+git add .	 git config --global user.name "you@example.com"				
+git commit -m "message"					
+					
+$ git push -u origin master					
+git diff 					
+git diff  index.txt					
+git diff  --staged index.txt					
+git reset utils.txt.txt					
+git checkout index.txt.txt					
+ git checkout .					
+ls -la					
+touch .gitignore					
+git branch					
+git branch branch name					
+git checkout branch name	you want to work on this branch				
+git push -u  origin new branch name					
+git merge branch name	$ git push -u origin master				
+git branch -d branch name	for deleting branch but not on git hub				
+git push origin --delete branch name	for deleting permanent also on github				
