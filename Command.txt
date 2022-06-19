@@ -18,3 +18,4 @@ git push -u  origin new branch name
 git merge branch name	$ git push -u origin master				
 git branch -d branch name	for deleting branch but not on git hub				
 git push origin --delete branch name	for deleting permanent also on github				
+git clone repositry address
